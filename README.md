@@ -1,6 +1,6 @@
 How to run this app
 
-Clone this repository and change directory to bahasakita-test
+Clone this repository and change directory
 ```
 https://github.com/saldhyyoga/oca.git
 ```
