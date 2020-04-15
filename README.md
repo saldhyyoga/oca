@@ -17,7 +17,7 @@ npm start
 
 API
 ```
-POST
+POST ( body raw json )
 http://localhost:5000/carIn
 http://localhost:5000/carOut
 http://localhost:5000/report
